@@ -1,0 +1,20 @@
+﻿Region,Age,Income,Online Shopper,Passport,Health,Food
+India,49,86400,No,yes,1,veg
+Brazil,32,57600,Yes,no,2,nonveg
+USA,35,64800,No,no,3,veg
+Brazil,43,73200,No,yes,2,veg
+USA,45,,Yes,yes,2,veg
+India,40,69600,Yes,no,3,veg
+Brazil,,62400,No,yes,3,nonveg
+India,53,94800,Yes,yes,3,nonveg
+USA,55,99600,No,no,1,nonveg
+India,42,80400,Yes,no,2,veg
+India,49,86400,No,no,2,nonveg
+Brazil,32,157600,Yes,yes,1,veg
+USA,35,64800,No,no,1,nonveg
+Brazil,43,73200,No,yes,2,nonveg
+Brazil,,62400,No,no,3,veg
+India,53,94800,Yes,yes,3,nonveg
+India,49,86400,No,yes,1,veg
+USA,55,99600,No,yes,1,nonveg
+Brazil,,62400,No,no,2,veg
